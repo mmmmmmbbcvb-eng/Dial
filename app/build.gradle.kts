@@ -142,7 +142,7 @@ android {
             // before): a different package from upstream's, so it
             // installs beside the official BitChord instead of replacing it.
             applicationId = "com.steeben.dial"
-            resValue("string", "app_name", "Dial")
+            resValue("string", "app_name", "scar")
         }
         create("prod") {
             dimension = "env"
